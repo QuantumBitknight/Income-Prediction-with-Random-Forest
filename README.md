@@ -1,3 +1,2 @@
-# Random-Forest
-Built an ensemble of decision trees. 
-Built an ensemble of decision trees. I trained each tree on a different, random subset of our data and a random selection of features. Finally, I combine all the trees predictions to get a more accurate and robust result than any single tree could achieve on its own. And improved accuracy by 85%.
+# Income Prediction with Random Forest
+Developed a ML model to predict a person's income level based on census data. Used Random Forest Classifier. The impact of this project is the creation of a predictive model with an accuracy of approximately 84%, which can be used to identify factors influencing income and assist in economic analysis.
